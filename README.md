@@ -192,6 +192,3 @@ Feedstock Maintainers
 * [@maresb](https://github.com/maresb/)
 * [@ricardoV94](https://github.com/ricardoV94/)
 
-
-<!-- dummy commit to enable rerendering -->
-
